@@ -48,7 +48,7 @@ Harassment includes:
 Reporting
 ---------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can. Where possible take screenshots as evidence of harassment and provide these to the admins.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
 
