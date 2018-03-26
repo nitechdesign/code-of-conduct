@@ -44,7 +44,7 @@ Harassment includes:
 * Unwelcome sexual attention
 * Continued one-on-one communication after requests to cease
 * Publication of non-harassing private communication
-* Using biological (or similar, non-social) rationale for professional inequalities, or the experience of inequal treatment (either as an individual or on aggregate)
+* Supporting nature-based (or similar, non-social) explanations for professional inequalities, wage gaps, or the experience of inequal treatment (either as an individual or as a group)
 
 Reporting
 ---------
