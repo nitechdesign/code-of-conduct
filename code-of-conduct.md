@@ -15,12 +15,7 @@ Confidentiality:
 
 **Please respect the confidentiality of what is said in the NI Tech Slack**. The Slack is open to all who wish to join, but the messages posted are only visible to those who join. Members have a right to expect that their postings are not replicated widely without their approval. Please don't repeat or quote things said here without the affirmative consent of the member(s).
 
-**Please be mindful that things you say here may at some point become public**. While we expect members to honour the confidentiality of this space, we cannot guarantee that they will do so--nor can we guarantee that every member's login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
-
-Logs and Records:
------------------
-
-**Please be mindful that things you say here may at some point become public**. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+**Please be mindful that things you say here may at some point become public**. Notwithstanding the above, we cannot guarantee that messages posted will not be seen be non-members, nor by people who become members in the future. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
 Message Retention:
 ------------------
