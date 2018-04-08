@@ -13,7 +13,7 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 Confidentiality:
 ----------------
 
-**Please keep what's said in the NI Tech Slack confidential**. Don't repeat or quote things said here without the affirmative consent of the speaker(s). When quoting (with consent), please be careful not to reveal the existence of the NI Tech Slack. Rather, you can refer to the quote as something that was said "in chat" or while you were talking to the quoted member.
+**Please respect the confidentiality of what is said in the NI Tech Slack**. The Slack is open to all who wish to join, but the messages posted are only visible to those who join. Members have a right to expect that their postings are not replicated widely without their approval. Please don't repeat or quote things said here without the affirmative consent of the member(s).
 
 **Please be mindful that things you say here may at some point become public**. While we expect members to honour the confidentiality of this space, we cannot guarantee that they will do so--nor can we guarantee that every member's login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
