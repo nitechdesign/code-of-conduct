@@ -6,7 +6,13 @@ Welcome!
 
 The NI Tech and Design Slack (or NI Tech Slack) is a gathering of people working in the tech and design fields with an association to Northern Ireland. The group is not restricted to people who work in these fields, or who live in Northern Ireland.
 
-The current admin is Maurice Kelly (@mo).
+The current admins are:
+
+- Andrew Bolster (@bolster)
+- Claire Wilgar (@clairebones)
+- Mark Allan (@MarkXA)
+- Maurice Kelly (@mo)
+- Victoria McCallum (@victoria)
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
