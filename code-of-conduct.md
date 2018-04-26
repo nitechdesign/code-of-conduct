@@ -55,15 +55,7 @@ We will respect confidentiality requests for the purpose of protecting victims o
 Accountability
 --------------
 
-To help ensure consistency and transparency of enforcement, a rotating group of three non-admins will form an accountability panel. They will be expected to ensure that the Code of Conduct is enforced fairly, according to its terms and without partiality to any individual, group or community within the Slack, either intended or in practice. They do not provide any route of appeal, and have no powers beyond requesting improvements from admins and relating their findings to the rest of the community, during and/or at the end of their term.
-
-To fill these roles, once a quarter, three public channels (with active history) will be randomly selected and one non-admin user randomly selected, with posts in the visible history of Slack (not necessarily that channel). The process is repeated in each channel until a user agrees and the number of rejections for a given channel is recorded (without user details), as part of accountability reporting. If no user in a channel agrees, this is recorded and a new channel picked at random.
-
-Admins will relate any invocation of the Code of Conduct, and (as far as practical without personal identifiability) details of any implicit/explicit request for enforcement to the accountability panel. Any individuals or groups who believe they have not been treated fairly may report their rationale to the panel, for inclusion in accountability reporting, while recognising that the accountability panel may not use their roles to influence any specific admin decision. As part of their reporting, the accountability panel will provide a short summary at the end of the quarter, highlighting any outstanding concerns, with basic rationale, in the #general channel.
-
-Panelists must expressly agree to maintain anonymity of anyone contacting them in this capacity, as a condition of acceptance, and not to relay any information to the admins that has been passed in confidence, except where legally required or where forming part of abusive behaviour towards the panelists. Panelists are expected to treat any issue raised to them in good faith impartially, regardless of their own perspective, agreement or disagreements.
-
-This role is expected to involve, on average, 0.5-1.5h work per person per quarter.
+To help ensure consistency and transparency of enforcement, two non-admins, picked at random from the community, will act as an accountability panel. Their job is to provide feedback on the enforcement of the Code of Conduct. When the Code of Conduct is invoked, they should be informed where possible by admins, without personal details, and members of the community can give feedback to them anonymously. Each quarter they provide a brief summary of feedback, if any, in a public channel and two new members are picked. They have no admin powers.
 
 Consequences
 ------------
