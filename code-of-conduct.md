@@ -53,6 +53,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
 
+Accountability
+--------------
+
+To help ensure consistency and transparency of enforcement, two non-admins, picked at random from the community, will act as an accountability panel. Their job is to provide feedback on the enforcement of the Code of Conduct. When the Code of Conduct is invoked, they should be informed where possible by admins, without personal details, and members of the community can give feedback to them anonymously. Each quarter they provide a brief summary of feedback, if any, in a public channel and two new members are picked. They have no admin powers.
+
 Consequences
 ------------
 
