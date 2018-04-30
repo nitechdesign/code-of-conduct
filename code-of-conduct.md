@@ -31,7 +31,7 @@ Because this is a free slack account, the ability to scroll back is limited, but
 Harassment:
 -----------
 
-Harassment includes:
+Harassment includes, but is not limited to:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, religion or political opinion
 * Promotion of abuse, exclusion or harassment based on the characteristics above, like links or tweets to publicity-raising or controversy pieces accepting racist, sexist or homophobic groups
