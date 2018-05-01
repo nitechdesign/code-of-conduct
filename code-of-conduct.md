@@ -33,7 +33,7 @@ Harassment:
 
 Harassment includes:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, religion or political opinion
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, religion or political opinion
 * Promotion of abuse, exclusion or harassment based on the characteristics above, like links or tweets to publicity-raising or controversy pieces accepting racist, sexist or homophobic groups
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names
