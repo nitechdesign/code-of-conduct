@@ -62,6 +62,19 @@ Participants asked to stop any harassing behaviour are expected to comply immedi
 
 If a participant engages in harassing behaviour, the admins may take any action they deem appropriate, up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
 
+Spam
+----
+
+Within the context of this Slack spam is defined as behaviour that involves the posting of unsolicited adverts, or the posting of excessive amounts of material to any channel or feature of the Slack. Examples of spam include (but are not limited to):
+
+- repeated advertising of services or products
+- excessive uploads of customisable material (for example: emoji, Slackbot responses, loading messages)
+- joining the service solely to advertise
+- running bots that post excessively or cause annoyance to other members
+
+In the event of an activity considered to be spam being reported to the admins, a request will be made to the member responsible to rectify their actions (by removing messages, emoji, bots, etc) and to not repeat the activity. Failure to rectify the actions will result in the admins carrying this out. Repeating the activity will result in account deactivation.
+
+
 Credits and License
 --------------------
 
