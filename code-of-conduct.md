@@ -47,6 +47,7 @@ Harassment includes, but is not limited to:
 * Continued one-on-one communication after requests to cease
 * Publication of non-harassing private communication
 * Supporting nature-based (or similar, non-social) explanations for professional inequalities, wage gaps, or the experience of inequal treatment (either as an individual or as a group)
+* "Doxxing" - the publication of personal identifying information or photos of a Slack member that is otherwise private
 
 Reporting
 ---------
