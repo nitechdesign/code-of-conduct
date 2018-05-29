@@ -55,7 +55,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
 
-This code of conduct uses a broader definition of harassment than the legislation which makes harassment illegal in Northern Ireland. Some harassment on this Slack may be criminal, in particular if it causes the fear of violence. If you've been the victim of a crime or think you have witnessed one, you should report it to the police. Please also contact the admins who may be able to assist.
+This code of conduct uses a broader definition of harassment than the legislation which makes harassment illegal in Northern Ireland. If you have been the victim of criminal harassment, you should report it to the police. Please also contact the admins who may be able to assist.
 
 Consequences
 ------------
