@@ -56,6 +56,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse.
 
+This code of conduct uses a broader definition of harassment than the legislation which makes harassment illegal in Northern Ireland. If you have been the victim of criminal harassment, you should report it to the police. Please also contact the admins who may be able to assist.
+
 Consequences
 ------------
 
