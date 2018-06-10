@@ -7,10 +7,10 @@ This Code of Conduct belongs to the NI Tech & Design Slack ("The Slack") -- a te
 
 Changes can be proposed by any member of The Slack, and are accepted through the following mechanisms:
 
+- creating a pull request in This Repository
+- raising an issue in This Repository
 - suggestions put forward in the `#code-of-conduct` channel in The Slack
 - directly messaging an admin in The Slack (see list of admins below)
-- raising an issue in This Repository
-- creating a pull request in This Repository
 
 At present, "anonymous" changes are accepted -- this is subject to change if the quality of anonymous changes degrades.
 
