@@ -12,24 +12,30 @@ The current admins are:
 - Claire Wilgar (@clairebones)
 - Mark Allan (@MarkXA)
 - Maurice Kelly (@mo)
-- Victoria McCallum (@victoria)
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-Confidentiality:
-----------------
+
+Applicability
+-------------
+
+This code of conduct applies to the entire Slack, including private channels and direct message conversations. Some channels may have extra rules or conventions with regard to content, but these rules or conventions must not supersede or otherwise undermine the code of conduct.
+
+
+Confidentiality
+---------------
 
 **Please respect the confidentiality of what is said in the NI Tech Slack**. The Slack is open to all who wish to join, but the messages posted are only visible to those who join. Members have a right to expect that their postings are not replicated widely without their approval, especially those messages posted in private channels or direct messages. Please don't repeat or quote things said here without the affirmative consent of the member(s).
 
 **Please be mindful that things you say here may at some point become public**. Notwithstanding the above, we cannot guarantee that messages posted will not be seen be non-members, nor by people who become members in the future. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-Message Retention:
-------------------
+Message Retention
+-----------------
 
 Because this is a free slack account, the ability to scroll back is limited, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of the NI Tech Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
-Harassment:
------------
+Harassment
+----------
 
 Harassment includes, but is not limited to:
 
