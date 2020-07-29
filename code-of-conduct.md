@@ -58,7 +58,7 @@ Harassment includes, but is not limited to:
 Other inappropriate content
 ---------------------------
 
-This Slack should be considered safe for general consumption. As a rule of thumb, before you post anything, consider if it would be appropriate for the widest possible audience: there is no minimum age restriction for joining this Slack and people from all walks of like – as well as faiths and beliefs – are welcome here.
+This Slack should be considered safe for general consumption. As a rule of thumb, before you post anything, consider if it would be appropriate for the widest possible audience: there is no minimum age restriction for joining this Slack and people from all walks of life – as well as faiths and beliefs – are welcome here.
 
 The determination of what is suitable for this community is generally defined by the community, and specifically defined by the admins. Content that is felt to be inappropriate by the community may result in the poster being asked to edit or remove posts. Deliberate and repeated posting of material deemed inappropriate by the community will be considered as a reason to ask the poster to leave the community. If you are unsure about content that you want to post, you can reach out to an admin through the #admin channel for guidance.
 
