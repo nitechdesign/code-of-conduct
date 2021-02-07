@@ -29,7 +29,7 @@ Confidentiality
 
 **Please be mindful that things you say here may at some point become public**. Notwithstanding the above, we cannot guarantee that messages posted will not be seen be non-members, nor by people who become members in the future. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-**This confidentiality clause may be waived in the case of the community interest (i.e. the reporting of other contraventions of this Code), or in cases where the content posted is in service to the promotion or representation of an outside entity, such as job postings or corporate promotions)**
+**This confidentiality clause may be waived in the case of the community interest (i.e. the reporting of other contraventions of this Code), or in cases where the content posted is in service to the promotion or representation of an outside entity, such as job postings or corporate promotions**
 
 Message Retention
 -----------------
