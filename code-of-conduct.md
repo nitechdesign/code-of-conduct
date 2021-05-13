@@ -25,9 +25,11 @@ This code of conduct applies to the entire Slack, including private channels and
 Confidentiality
 ---------------
 
-**Please respect the confidentiality of what is said in the NI Tech Slack**. The Slack is open to all who wish to join, but the messages posted are only visible to those who join. Members have a right to expect that their postings are not replicated widely without their approval, especially those messages posted in private channels or direct messages. Please don't repeat or quote things said here without the affirmative consent of the member(s).
+**Please respect the confidentiality of what is said in the NI Tech Slack**. The Slack is open to all individuals who wish to join, but the messages posted are only visible to those who join. Members have a right to expect that their postings are not replicated widely without their approval, especially those messages posted in private channels or direct messages. Please don't repeat or quote things said here without the affirmative consent of the member(s).
 
 **Please be mindful that things you say here may at some point become public**. Notwithstanding the above, we cannot guarantee that messages posted will not be seen be non-members, nor by people who become members in the future. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+
+**This confidentiality clause may be waived in the case of the community interest (i.e. the reporting of other contraventions of this Code), or in cases where the content posted is in service to the promotion or representation of an outside entity, such as job postings or corporate promotions**
 
 Message Retention
 -----------------
