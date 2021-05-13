@@ -87,6 +87,7 @@ Within the context of this Slack spam is defined as behaviour that involves the 
 - excessive uploads of customisable material (for example: emoji, Slackbot responses, loading messages)
 - joining the service solely to advertise
 - running bots that post excessively or cause annoyance to other members
+- creation and/or operation of corporate-voice accounts  (i.e. brand-accounts) without individual personal identity
 
 In the event of an activity considered to be spam being reported to the admins, a request will be made to the member responsible to rectify their actions (by removing messages, emoji, bots, etc) and to not repeat the activity. Failure to rectify the actions within a timely fashion will result in the admins carrying this out. Repeating the activity will result in account deactivation.
 
