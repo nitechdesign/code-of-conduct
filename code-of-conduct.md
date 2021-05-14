@@ -21,6 +21,17 @@ Applicability
 
 This code of conduct applies to the entire Slack, including private channels and direct message conversations. Some channels may have extra rules or conventions with regard to content, but these rules or conventions must not supersede or otherwise undermine the code of conduct.
 
+Assumption of Good Faith
+------------------------
+
+Unless there is clear evidence to the contrary, assume that people who participate in the community are trying to help it, not hurt it.
+When dealing with potential breaches of policy, admins should assume good faith when dealing with all parties.
+In addition to assuming good faith, encourage others to assume good faith by demonstrating your own good faith. You can do this by articulating your honest motives, and clarifying your intent if a comment is open to different interpretations.
+
+Avoid accusing other community members of bad faith without clear evidence. Making such claims often serves no purpose and could be seen as inflammatory and hence aggravate a dispute. Even if bad faith is evident, do not act uncivilly yourself in return, attack others, or lose your cool over it. It is ultimately much easier for others to resolve a dispute and see who is breaching policies if one side is clearly acting appropriately throughout.
+
+Without clear evidence that the action of another community member is actually in bad faith or harassment, repeatedly alleging bad faith motives could be construed as a personal attack. The result could be accusations of bad faith on your part, which tends to create a nasty cycle of unhelpful accusations and counter-accusations. 
+
 
 Confidentiality
 ---------------
